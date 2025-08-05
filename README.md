@@ -24,9 +24,9 @@ Images of the Brain Tumor and Healthy Brain.
 - **Healthy:**
   <p float="left">
     <img src="Dataset\healthy\healthy (1).jpg" width="20%" />
-    <img src="Dataset\healthy\healthy (50).jpg" width="20%" />
-    <img src="Dataset\healthy\healthy (388).jpg" width="20%" />
-    <img src="Dataset\healthy\healthy (408).jpg" width="20%" />
+    <img src="Dataset\healthy\healthy (2).jpg" width="20%" />
+    <img src="Dataset\healthy\healthy (3).jpg" width="20%" />
+    <img src="Dataset\healthy\healthy (4).jpg" width="20%" />
   </p>
 
 - **Tumor:**
@@ -39,7 +39,8 @@ Images of the Brain Tumor and Healthy Brain.
 
 Each image is an MRI scan labeled as either *healthy* or *tumor*.
 
-Download Dataset: [Kaggle Dataset](https://www.kaggle.com/datasets/hamzahabib47/brain-cancer-detection-mri-images/data)
+- Download Dataset: [Kaggle Dataset](https://www.kaggle.com/datasets/hamzahabib47/brain-cancer-detection-mri-images/data)
+
 ---
 
 ## 📦 Requirements
