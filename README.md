@@ -23,18 +23,18 @@ Images of the Brain Tumor and Healthy Brain.
 
 - **Healthy:**
   <p float="left">
-    <img src="Dataset\healthy\healthy (1).jpg" width="100%" />
-    <img src="Dataset\healthy\healthy (50).jpg" width="100%" />
-    <img src="Dataset\healthy\healthy (388).jpg" width="100%" />
-    <img src="Dataset\healthy\healthy (408).jpg" width="100%" />
+    <img src="Dataset\healthy\healthy (1).jpg" width="20%" />
+    <img src="Dataset\healthy\healthy (50).jpg" width="20%" />
+    <img src="Dataset\healthy\healthy (388).jpg" width="20%" />
+    <img src="Dataset\healthy\healthy (408).jpg" width="20%" />
   </p>
 
 - **Tumor:**
   <p float="left">
-    <img src="Dataset\tumor\tumor (1).jpg" width="100%" />
-    <img src="Dataset\tumor\tumor (50).jpg" width="100%" />
-    <img src="Dataset\tumor\tumor (388).jpg" width="100%" />
-    <img src="Dataset\tumor\tumor (408).jpg" width="100%" />
+    <img src="Dataset\tumor\tumor (1).jpg" width="20%" />
+    <img src="Dataset\tumor\tumor (50).jpg" width="20%" />
+    <img src="Dataset\tumor\tumor (388).jpg" width="20%" />
+    <img src="Dataset\tumor\tumor (58).jpg" width="20%" />
   </p>
 
 Each image is an MRI scan labeled as either *healthy* or *tumor*.
